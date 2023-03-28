@@ -12,9 +12,36 @@ Unleash the Power of Wireless: Accu-less Solutions for Seamless Power Transmissi
 
 Contactless energy or wireless power transfer is a technology that allows energy to be transferred from one device to another without the need for physical contact. This technology is still in its early stages, but it could revolutionize the way we use and transport energy. It could potentially make charging devices easier and safer, reduce the need for electrical cords, and reduce the cost and complexity of powering small devices. Some of the potential applications of this technology include powering electric vehicles, powering mobile devices, and providing electricity in remote locations.
 
+
+## Acculess.com
+
+Acculess technology enables products to last up to 25 years on a pre-installed battery.
+
+Leveraging patented power management designs, Acculess works with its partners to enable lifetime products with or without energy harvesting.
+
+Whether it is multiple years on a single coin cell or 25 years on a AA battery, Acculess technology can differentiate your product by eliminating batteries or battery maintenance yielding lifetime devices.
+
+Long-life products utilizing:
+
+– Wireless Power
+– Lifetime Batteries
+– Unique Power Management
+
+
+
+Wireless Power / Charging
+
+Acculess embedded wireless power technology provides long-range, true wireless charging without wires or charging mats to enable completely untethered devices. 
+FCC-approved RF transmitters pair with high-efficiency receiver chips to enable power-over-distance recharging of multiple devices.
+
+A transmitter sends RF energy over the air to a receiver chip embedded in a device, which converts it to DC to recharge its batteries or directly power the device. This remote charging technology behaves like Wi-Fi where enabled devices automatically charge when within range of a power transmitter.  
+Smart, configurable and controllable, it can automatically activate when devices need charging and turn off when they’re done, or can deliver power continuously or on a scheduled basis.
+
+
 ## How it work's
 
 A wireless energy transfer system can be implemented for a range of 100 meters using a rectenna for the 5.8GHz frequency band. The system consists of a transmitter and a receiver. The transmitter is configured to transfer 1mW of energy from a source to the receiver using a directional antenna with a beamwidth of approximately 10 degrees. The receiver is equipped with a rectenna that is tuned to the 5.8GHz frequency band for maximum efficiency. The rectenna is able to convert the RF energy into usable DC power for the device. The system is designed to be able to provide a stable and reliable connection between the transmitter and the receiver up to a range of 100 meters.
+
 
 ## Use case
 
