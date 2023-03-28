@@ -114,6 +114,13 @@ A wireless energy transfer system can be implemented for a range of 100 meters u
 ## Examples
 
 
+## Agriculture
+
+Agriculture is a demanding field, where applied technology should fulfill the requirement for low-power conception, precision, real-time synchronization, reduced man power, reduced environmental impact, small size and low cost. 
+Thus, the choice of the working platform becomes challenging. 
+In this context, many WSNs were designed especially for agricultural applications. 
+Basically, they can be classified according to different features and characteristics
+
 
 
 ### Wearable Devices
