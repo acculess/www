@@ -1,27 +1,32 @@
+[logo.acculess.com](https://logo.acculess.com/1/cover.png)
+
 # acculess - contactless energy
 
-Wireless Power Transmission
-Wireless Power Transfer
-
-- wireless energy
-
-more power - less accu & wires
-
-accu-less solution with wireless power transmission
-
+Accu-less solution with wireless power transmission
 Unleash the Power of Wireless: Accu-less Solutions for Seamless Power Transmission.
 
++ more power - less accu & wires
 
-wireless energy transmission
-digital twin generation
-autonomous transport
 
-# [acculess - contactless energy - wireless power transfer](https://www.acculess.com)
+## About [acculess - contactless energy - wireless power transfer](https://www.acculess.com)
 
 Contactless energy or wireless power transfer is a technology that allows energy to be transferred from one device to another without the need for physical contact. This technology is still in its early stages, but it could revolutionize the way we use and transport energy. It could potentially make charging devices easier and safer, reduce the need for electrical cords, and reduce the cost and complexity of powering small devices. Some of the potential applications of this technology include powering electric vehicles, powering mobile devices, and providing electricity in remote locations.
 
+## How it work's
+
+A wireless energy transfer system can be implemented for a range of 100 meters using a rectenna for the 5.8GHz frequency band. The system consists of a transmitter and a receiver. The transmitter is configured to transfer 1mW of energy from a source to the receiver using a directional antenna with a beamwidth of approximately 10 degrees. The receiver is equipped with a rectenna that is tuned to the 5.8GHz frequency band for maximum efficiency. The rectenna is able to convert the RF energy into usable DC power for the device. The system is designed to be able to provide a stable and reliable connection between the transmitter and the receiver up to a range of 100 meters.
 
 ## Use case
+
++ Wearable Electronics
++ Medical Implants
++ Radio-Frequency Identification Devices (RFID)
++ Industrial Sensors
+
+
+## Examples
+
+
 
 
 ### Wearable Devices
@@ -151,6 +156,18 @@ Wireless power transfer can be used to provide electricity in remote locations s
 ## Partnership
 
 In the next years it will be possible to offer devices, drones using contactless energy for a commercial or military purpose, are you interested?
+
+
+
+
+## Keywords
++ Wireless Power Transmission
++ Wireless Power Transfer
++ wireless energy
++ wireless energy transmission
++ digital twin generation
++ autonomous transport
+
 
 ---
 
