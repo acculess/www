@@ -40,7 +40,19 @@ Piezoelectric energy harnessing Can turn mechanical stress into electricity. Nee
 Overall, each energy harvesting solution has its own benefits and disadvantages. Energy harvesting from our living environment provides a sustainable and affordable alternative to rechargeable batteries, but may not be as consistent as batteries. Nanomaterials can create unique properties and power devices, but are still in the research and development phase and can be expensive to produce. Third-generation solar cells offer intrinsic advantages and cost-effectiveness, but may not work in all conditions. Thermoelectric materials provide an alternative energy source to fossil fuels but improvements are still needed. Vibrational energy harnessing can provide continuous and changing operational needs of sensors/electronic devices, but may not be as consistent as other energy sources. Electrostatic energy harvesting has breakthrough research, but may be difficult to achieve with other energy storage technologies. Electromagnetic harvesters are easy to design but miniaturization has proven to be challenging. Piezoelectric energy harnessing can turn mechanical stress into electricity but requires an optimal design to output the highest harvested power possible over the smallest area feasible.
 
 
+## Rectenna, RF solutions
 
+Radio frequency (RF) energy transmission and harvesting techniques have recently become interesting alternative methods to support the new generation of
+wireless sensor network (WSN). This developing technology enables proactive energy replenishment for wireless control and monitoring applications. 
+With RF power transfer long distances can be overbridged. It is possible to harvest energy from ambient RF energy sources and to convert it into usable electrical form.
+
+RF energy harvesting from dedicated transmitters or from ambient RF sources presents an effective alternative to supply WSNs. 
+Demands of low power consumption WSN maintains the ability to use RF power transfer for microwatt power levels. 
+RF energy harvesting allows the handover of the necessary power to the interrogated WSN located far from the transmitter base station. 
+
+The transmitted RF energy is collected by a receiver antenna. 
+The rectifier transforms the RF wave to a DC power useful for charging typical storage elements for low power or running battery-free devices. 
+The main goal of an RF harvester is to load high overall power conversion efficiency
 
 ## Acculess.com
 
