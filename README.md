@@ -1,4 +1,4 @@
-[logo.acculess.com](https://logo.acculess.com/1/cover.png)
+![logo.acculess.com](https://logo.acculess.com/1/cover.png)
 
 # acculess - contactless energy
 
