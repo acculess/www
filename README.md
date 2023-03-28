@@ -54,6 +54,15 @@ The transmitted RF energy is collected by a receiver antenna.
 The rectifier transforms the RF wave to a DC power useful for charging typical storage elements for low power or running battery-free devices. 
 The main goal of an RF harvester is to load high overall power conversion efficiency
 
+The power can be transferred wirelessly through different technologies: 
++ laser
++ electromagnetic induction (inductive)
++ electrostatic induction (capacitive) 
++ microwaves (RF)
+
+![image](https://user-images.githubusercontent.com/5669657/228359732-739e9bab-fadd-461c-8a00-5ad0a5e69e94.png)
+
+
 ## RF power transmission
 
 Since special regulations exist for RF power transmission, it makes sense to use the free license frequency bands or industrial, scientific and medical bands (ISM). 
