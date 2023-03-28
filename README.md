@@ -2,6 +2,11 @@
 
 # [acculess - contactless energy](http://www.acculess.com)
 
+AccuLess is a wireless energy transfer solution for AA and AAA #battery sized cells. Instead of recharging the batteries, you can use #AccuLess cells for many years. 
+
+Application in devices such as #keyboard, #mouse, #remotecontroller, #clock, #headset, ...
+
+
 Accu-less solution with wireless power transmission
 Unleash the Power of Wireless: Accu-less Solutions for Seamless Power Transmission.
 
