@@ -54,6 +54,16 @@ The transmitted RF energy is collected by a receiver antenna.
 The rectifier transforms the RF wave to a DC power useful for charging typical storage elements for low power or running battery-free devices. 
 The main goal of an RF harvester is to load high overall power conversion efficiency
 
+## RF power transmission
+
+Since special regulations exist for RF power transmission, it makes sense to use the free license frequency bands or industrial, scientific and medical bands (ISM). 
+They
+should be classified as either non-specific short-range devices (SRD), wideband data transmission systems or radio frequency identification (RFID) applications. 
+The Table shows the standard RF ranges used for RFID and the maximum transmission power:
+
+![image](https://user-images.githubusercontent.com/5669657/228358533-4667f130-7661-493b-93f2-3f21dd907b9c.png)
+
+
 ## Acculess.com
 
 Acculess technology enables products to last up to 25 years on a pre-installed battery.
