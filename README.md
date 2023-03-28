@@ -20,6 +20,8 @@ Contactless energy or wireless power transfer is a technology that allows energy
 
 Scientists are looking for new ways to power electronic devices like phones, health monitors, and environmental sensors. Instead of using batteries, they want to use energy from things like sunlight, heat, vibrations, and electricity. They are using really tiny materials called nanomaterials to make these new power sources. They are also finding ways to make these power sources really small, so they can be used in tiny devices like sensors. Some of the new power sources are made from special materials that can turn vibrations into electricity. Others use special materials that can turn heat or sunlight into electricity. These new power sources are important because they are more sustainable and better for the environment than using batteries.
 
+![image](https://user-images.githubusercontent.com/5669657/228351767-6822c5a9-d783-4ed4-8571-969fd51cee97.png)
+
 
 Energy harvesting from living environment Provides a powerful alternative to rechargeable batteries; sustainable and affordable energy sources. Not as consistent as batteries; some sources may not be available in all locations. 
 Nanomaterials Can create unique properties; can be used to power devices. Still in the research and development phase; expensive to produce. 
