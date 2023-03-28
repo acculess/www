@@ -148,6 +148,9 @@ Wireless power transfer can be used to power Internet of Things (IoT) devices su
 Wireless power transfer can be used to provide electricity in remote locations such as rural villages, remote islands, and natural disasters areas. This technology can provide a reliable power source for these locations, allowing them to be supplied with electricity even when traditional power sources are not available.
 
 
+## Partnership
+
+In the next years it will be possible to offer devices, drones using contactless energy for a commercial or military purpose, are you interested?
 
 ---
 
