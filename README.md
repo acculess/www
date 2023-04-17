@@ -113,6 +113,11 @@ A wireless energy transfer system can be implemented for a range of 100 meters u
 
 ## Examples
 
+## Battery size
+
++ [List of battery sizes - Wikipedia](https://en.wikipedia.org/wiki/List_of_battery_sizes)
+
+
 
 ## Agriculture
 
