@@ -257,6 +257,11 @@ Wireless power transfer can be used to provide electricity in remote locations s
 In the next years it will be possible to offer devices, drones using contactless energy for a commercial or military purpose, are you interested?
 
 
+## Competitors
+
+[Xsensor: Wireless sensors with contactless battery for power generation equipment - YouTube](https://www.youtube.com/watch?v=jFRJ06DbS8E)
+The objective of Xsensor includes the delivery of a Condition Monitoring and Structural Health Monitoring system that consists of a line of wireless sensors and a universal unit used to connect any standard probe and make it a wireless node.
+
 
 
 ## Keywords
