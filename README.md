@@ -89,7 +89,7 @@ Long-life products utilizing:
 
 
 
-Wireless Power / Charging
+### Wireless Power / Charging
 
 Acculess embedded wireless power technology provides long-range, true wireless charging without wires or charging mats to enable completely untethered devices. 
 FCC-approved RF transmitters pair with high-efficiency receiver chips to enable power-over-distance recharging of multiple devices.
@@ -248,6 +248,7 @@ All files, including GNU Radio 3.8 flowgraphs are here: [jonkraft/PhasedArray: 1
 A complete Raspberry Pi disk image, with GNU Radio 3.8.1 and all workshop files are here: [http://download.analog.com/phased-arr...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTdYX05NSU9jN1A1ejNiVXlZQWpTX0hNZW5xd3xBQ3Jtc0tsd1dwd0FLZy1MZmFpRmtmRlJ1US1ud0pCc0U0dlJ1dTZTMWxpV3VFLU5EVU1JT0FnWkVFdDN6dG5BcUFPQkw0WE55ME5tMzhGTm00QV9POFlsekpyaXQwTzMwZXBBQXZFYmhUbmpuR294dV92dy1qdw&q=http%3A%2F%2Fdownload.analog.com%2Fphased-array-lab%2Fraspi.7z&v=0hnWfTvETcU)
 
 
+
 ## Examples of Wireless Power Transfer for low power devices:
 
 ### Wearable devices: 
@@ -270,12 +271,18 @@ In the next years it will be possible to offer devices, drones using contactless
 
 ## Competitors
 
-[Xsensor: Wireless sensors with contactless battery for power generation equipment - YouTube](https://www.youtube.com/watch?v=jFRJ06DbS8E)
+### Xsensor
+
++ [Xsensor: Wireless sensors with contactless battery for power generation equipment - YouTube](https://www.youtube.com/watch?v=jFRJ06DbS8E)
+
 The objective of Xsensor includes the delivery of a Condition Monitoring and Structural Health Monitoring system that consists of a line of wireless sensors and a universal unit used to connect any standard probe and make it a wireless node.
 
 
 
 ### PowerCast
+
++ [Wireless Power – Powercast](https://www.powercastco.com/wireless-power/)
+
 Powercast (http://www.powercastco.com/) is a leading innovator of embedded wireless power based on RF energy harvesting. Powercast's technology enables remote charging of micro-power devices using controllable wireless power, over distance, between one or more sources and multiple receivers. Devices with Powercast components can be designed for battery-free or battery-recharge operation.  Filmed at the http://www.IDTechEx.com USA 2016 in Santa Clara California.
 
 [PowerCast shows Embedded wireless power RF energy harvesting - YouTube](https://www.youtube.com/watch?v=xZVA5p9c9hc)
