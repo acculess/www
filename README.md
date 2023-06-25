@@ -236,6 +236,17 @@ list of companies they are offering Wireless Power Transfer devices
 5. Inductive charging systems: These systems use an inductive field to transfer energy between coils that are spaced apart, without the need for a physical connection.
 
 
+## research
+
++ [Phased Array Beamforming: Understanding and Prototyping - YouTube](https://www.youtube.com/watch?v=0hnWfTvETcU)
+workshop on Phased Array Beamforming at the GNU Radio Conference in September 2020.
+
+Slides for this workshop are here: [PhasedArray/PhasedArrayWorkshop_Presentation.pdf at master · jonkraft/PhasedArray · GitHub](https://github.com/jonkraft/PhasedArray/blob/master/PhasedArrayWorkshop_Presentation.pdf)
+
+All files, including GNU Radio 3.8 flowgraphs are here: [jonkraft/PhasedArray: 10 GHz Phased Array beamforming labs](https://github.com/jonkraft/phasedarray)
+
+A complete Raspberry Pi disk image, with GNU Radio 3.8.1 and all workshop files are here: [http://download.analog.com/phased-arr...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTdYX05NSU9jN1A1ejNiVXlZQWpTX0hNZW5xd3xBQ3Jtc0tsd1dwd0FLZy1MZmFpRmtmRlJ1US1ud0pCc0U0dlJ1dTZTMWxpV3VFLU5EVU1JT0FnWkVFdDN6dG5BcUFPQkw0WE55ME5tMzhGTm00QV9POFlsekpyaXQwTzMwZXBBQXZFYmhUbmpuR294dV92dy1qdw&q=http%3A%2F%2Fdownload.analog.com%2Fphased-array-lab%2Fraspi.7z&v=0hnWfTvETcU)
+
 
 ## Examples of Wireless Power Transfer for low power devices:
 
@@ -263,6 +274,11 @@ In the next years it will be possible to offer devices, drones using contactless
 The objective of Xsensor includes the delivery of a Condition Monitoring and Structural Health Monitoring system that consists of a line of wireless sensors and a universal unit used to connect any standard probe and make it a wireless node.
 
 
+
+### PowerCast
+Powercast (http://www.powercastco.com/) is a leading innovator of embedded wireless power based on RF energy harvesting. Powercast's technology enables remote charging of micro-power devices using controllable wireless power, over distance, between one or more sources and multiple receivers. Devices with Powercast components can be designed for battery-free or battery-recharge operation.  Filmed at the http://www.IDTechEx.com USA 2016 in Santa Clara California.
+
+[PowerCast shows Embedded wireless power RF energy harvesting - YouTube](https://www.youtube.com/watch?v=xZVA5p9c9hc)
 
 ## Keywords
 + Wireless Power Transmission
